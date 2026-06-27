@@ -1,0 +1,7 @@
+name = "kamil-hi-from-g"
+account_id = "7de71808241c501a82bf4e71a394b54c"
+compatibility_date = "2026-06-27"
+workers_dev = true
+
+[assets]
+directory = "./public"
