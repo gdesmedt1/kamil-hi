@@ -1,0 +1,3 @@
+.env.op
+node_modules/
+.wrangler/
